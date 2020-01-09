@@ -1,6 +1,6 @@
 <?php
 
-namespace sorry510;
+namespace sorry510\string;
 
 /**
  * 字符串工具类，提供链式操作，统一使用unicode处理方式，字符串参数统一为最后的参数
