@@ -1,0 +1,13 @@
+{
+    "name": "sorry510/string",
+    "description": "String Class",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "sorry510",
+            "email": "sorry510sf@gmail.com"
+        }
+    ],
+    "require": {}
+}
