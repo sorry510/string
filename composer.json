@@ -9,5 +9,10 @@
             "email": "sorry510sf@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "sorry510\\string\\": ""
+        }
+    }
 }
