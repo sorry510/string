@@ -127,6 +127,3 @@ class StringUtil
     });
   }
 }
-
-$a = StringUtil::chain('  hello  ')->trim()->toUpper()->slice(1, 2);
-echo $a;
